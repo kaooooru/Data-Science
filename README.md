@@ -1,2 +1,2 @@
-# Data-Science-Project
-Please check out the Video Captioner Model Training file to see my project!
+# Data-Science
+Here are some mini projects that I made while I was trying to learn different types of model.
